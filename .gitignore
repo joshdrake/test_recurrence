@@ -1,0 +1,9 @@
+*~
+*#
+*.swp
+*.pyc
+*.patch
+._*
+local_settings.py
+.ropeproject
+.dir-locals.el
